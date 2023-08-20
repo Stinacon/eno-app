@@ -8,6 +8,8 @@ djangorestframework = "*"
 django = "*"
 psycopg2-binary = "*"
 django-environ = "*"
+django-phonenumber-field = "*"
+django-phonenumbers = "*"
 
 [dev-packages]
 
