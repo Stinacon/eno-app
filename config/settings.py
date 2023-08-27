@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     'eno',
     'phonenumber_field',
     'phonenumbers',
+    'django_extensions',
 ]
 
 MIDDLEWARE = [

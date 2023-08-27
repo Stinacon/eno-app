@@ -10,6 +10,7 @@ psycopg2-binary = "*"
 django-environ = "*"
 django-phonenumber-field = "*"
 django-phonenumbers = "*"
+django-extensions = "*"
 
 [dev-packages]
 
